@@ -1,48 +1,48 @@
 {
   "commit": "297aeff2a2c1d63b89a98726ab282ac83f310950",
-  "generated_at": "2026-07-21T05:22:22Z",
+  "generated_at": "2026-07-22T05:22:27Z",
   "performance": {
     "benchmark_version": 1,
     "benchmarks": {
       "arrayRandom": {
         "checksum": "-2288487891715278",
-        "duration_ns": 1544900001
+        "duration_ns": 1536200001
       },
       "arraySequential": {
         "checksum": "0",
-        "duration_ns": 979600000
+        "duration_ns": 894500000
       },
       "hashMapChurn": {
         "checksum": "49941",
-        "duration_ns": 16129300001
+        "duration_ns": 17395700001
       },
       "intArithmetic": {
         "checksum": "1313580095284",
-        "duration_ns": 750000000
+        "duration_ns": 772300001
       },
       "longArithmetic": {
         "checksum": "6887886960473257608",
-        "duration_ns": 4117399999
+        "duration_ns": 4260299999
       },
       "mathTranscendental": {
         "checksum": "4729652805076374709",
-        "duration_ns": 300800001
+        "duration_ns": 289700000
       },
       "objectAllocation": {
         "checksum": "2999790376128",
-        "duration_ns": 3562400001
+        "duration_ns": 3267900000
       },
       "quicksort": {
         "checksum": "786886890168670967",
-        "duration_ns": 586500000
+        "duration_ns": 739700001
       },
       "recursion": {
         "checksum": "33385282",
-        "duration_ns": 1083300001
+        "duration_ns": 1191400000
       },
       "stringBuilding": {
         "checksum": "-609121604069",
-        "duration_ns": 1353200000
+        "duration_ns": 1396500000
       }
     },
     "method": "minimum of five measured runs after three in-process warm-ups",
@@ -51,7 +51,7 @@
     "suite_checksum": 0
   },
   "port": "javascript",
-  "run_url": "https://github.com/primogen/CodenameOne/actions/runs/29802325242",
+  "run_url": "https://github.com/primogen/CodenameOne/actions/runs/29892109259",
   "schema_version": 1,
   "suite_finished": true,
   "summary": {
