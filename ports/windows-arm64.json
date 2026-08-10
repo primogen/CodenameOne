@@ -1,48 +1,48 @@
 {
   "commit": "20343018254e2e2252f5907fdb52c8aede3fa0fd",
-  "generated_at": "2026-08-09T04:24:34Z",
+  "generated_at": "2026-08-10T04:39:20Z",
   "performance": {
     "benchmark_version": 1,
     "benchmarks": {
       "arrayRandom": {
         "checksum": "-2288487891715278",
-        "duration_ns": 171187000
+        "duration_ns": 172514000
       },
       "arraySequential": {
         "checksum": "0",
-        "duration_ns": 25189000
+        "duration_ns": 25083000
       },
       "hashMapChurn": {
         "checksum": "49941",
-        "duration_ns": 50111000
+        "duration_ns": 50549000
       },
       "intArithmetic": {
         "checksum": "1307491170054",
-        "duration_ns": 62847000
+        "duration_ns": 62846000
       },
       "longArithmetic": {
         "checksum": "6887886960473257608",
-        "duration_ns": 39178000
+        "duration_ns": 39209000
       },
       "mathTranscendental": {
         "checksum": "4729652805076374709",
-        "duration_ns": 220359000
+        "duration_ns": 220391000
       },
       "objectAllocation": {
         "checksum": "2999790376128",
-        "duration_ns": 5432722000
+        "duration_ns": 7454299000
       },
       "quicksort": {
         "checksum": "809667393311589960",
-        "duration_ns": 89334000
+        "duration_ns": 89179000
       },
       "recursion": {
         "checksum": "33385282",
-        "duration_ns": 123403000
+        "duration_ns": 122889000
       },
       "stringBuilding": {
         "checksum": "-609121604069",
-        "duration_ns": 33788000
+        "duration_ns": 32094000
       }
     },
     "method": "minimum of five measured runs after three in-process warm-ups",
@@ -51,7 +51,7 @@
     "suite_checksum": 0
   },
   "port": "windows-arm64",
-  "run_url": "https://github.com/primogen/CodenameOne/actions/runs/31293268793",
+  "run_url": "https://github.com/primogen/CodenameOne/actions/runs/31354384646",
   "schema_version": 1,
   "suite_finished": false,
   "summary": {
